@@ -25,7 +25,7 @@
 					<nav id="nav">
 
             {% include nav.html %}
-						
+
 					</nav>
 
 				<!-- Main -->
@@ -33,20 +33,24 @@
 
           <article class="post featured">
             <header class="major">
-              <h2><a href="#">Importance of Blogs</a></h2>
-              <p>Blogs are really pretty awesome things. For one, they are a means to continually provide fresh,
-                dynamic content to your users. Also, they help your site get indexed and build authority as they are essential for SEO!
+							<h1><a href="#">Research and Publications</a></h1>
+              <p>My current research focuses on the history of American popular entertainment.
 							</p>
             </header>
 						<p>
-							Content fulfills the general population seeing your website and it likewise fulfills web indexes! Having solid content
-							influences your advertising to work a hell of a great deal simpler. Along these lines, the greatest bit of the promoting riddle is there. It's vital to thoroughly consider this technique before starting another crusade. This makes the whole content and advertising process more streamlined and will in the end enable your message to achieve your clients in a more effective manner. You ought not think little of the significance of giving yourself room. Having squirm room takes into consideration steady changes to your methodology en route.
+							I am interested in issues of legibility, reception, and aesthetic agency and how these specifically relate to racial identity. How did past audiences decode the racial performances they saw on popular theatre stages? How did they relate them to their own culture and society? And how did the artists create these racial images? What were they replicating, defying, or modifying? My dissertation research explores these questions in the context of vaudeville, the first nation-wide American entertainment industry that gathered international artists and socially, economically, and ethnically diverse audiences.
+
+						</p>
 						<p>
+						I am a trained ballet dancer and since starting my PhD at Northwestern, I have been complementing my practice with theoretical and historical explorations in the field of dance studies. Researching dance has allowed me to delve deeper into questions of racial legibility. Dancing bodies oftentimes communicate racial meanings more directly than any dramatic piece or staging device. I translate this awareness into my dissertation work by paying particular attention to the way bodies move, pose, and stage themselves for an audience.
+
 						</p>
-							At that point, rather than pushing something superfluous to your users, you can give them something that will stick.
-							You'll give them something they can identify with and be slanted to share with their companions and associates. Perhaps they'll even be slanted to work with you later on!
-							Having an advancement technique that is excessively unbending isn't astute on the grounds that there is no space for solid spontaneous creation. Having the capacity to change your advertising procedure will prompt more deals and arrangements.
+
+						<p>
+						 In a change of focus from my area of specialization to discipline-oriented research, most recently I served as Associate Editor for <i>Three Loves for Three Oranges: Gozzi, Meyerhold, Prokofiev</i>. This rich collection of essays is the first book to reveal the intertwined legacy of Sergei Prokofiev’s 1921 opera <i>Love for Three Oranges</i>, the 1913 play by the same title adapted by Vsevolod Meyerhold from Carlo Gozzi, and Gozzi’s 1761 original theatrical fairy tale.
 						</p>
+
+						Click on the links below to learn more about my research.
 
           </article>
 					<!-- Post -->
@@ -55,22 +59,21 @@
 						{% assign mod3 = forloop.index | modulo: 3 %}
 							<article>
 								<header>
-									<span class="date">{{ post.date | date_to_string }}</span>
+									<!-- <span class="date">{{ post.date | date_to_string }}</span> -->
 									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+									<span>{{ post.journal }}</span>
 								</header>
-								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" />
+									<p class="image blogfigcaption">{{post.caption}}
+								</p>
+							</a>
 								<p>{{ post.excerpt }}</p>
 								<ul class="actions">
-									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+									<li><a href="{{ post.url | absolute_url }}" class="button">Read More</a></li>
 								</ul>
 							</article>
 							{% if mod3 == 0 %}
-							<article>
-								<header>
-									<h2><a href="#">Sponsored</a></h2>
-								</header>
 
-							</article>
 							{% endif %}
 						{% endfor %}
 
@@ -78,8 +81,11 @@
 
 					</div>
 
+
 				<!-- Footer -->
         {% include foot.html %}
+
+
 
 			</div>
 
