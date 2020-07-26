@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Teaching Philosophy \n& Samples'
+title: 'Teaching Philosophy & Samples'
 description: ''
 sitemap:
     priority: 0.7
