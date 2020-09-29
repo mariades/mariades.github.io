@@ -7,7 +7,7 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-My primary aims in teaching theatre history is to make history significant for my students’ present. To do that, I emphasize the interplay between performance and culture: how theatre can be used to understand society and how social dynamics influence theatre making at different points in time.
+My primary aim in teaching theatre history is to make history significant for my students’ present. To do that, I emphasize the interplay between performance and culture: how theatre can be used to understand society and how social dynamics influence theatre making at different points in time.
 
 <br/>
 
