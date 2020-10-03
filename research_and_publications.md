@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Research and Publications
+title: Research
 description: ''
 sitemap:
     priority: 1.0
