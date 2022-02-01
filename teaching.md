@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Teaching Philosophy <br/> & Selected Courses'
+title: 'Teaching'
 description: ''
 sitemap:
     priority: 0.7
