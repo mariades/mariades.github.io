@@ -22,7 +22,7 @@ This course defines minoritarian aesthetics in both content and style, underscor
 This course explores some of the major historical and theoretical developments in the fields of women’s, gender, queer, and trans studies over the past 100 years, focusing primarily on the post-Civil Right Movement period. Each class pairs readings with feminist, queer, and trans cultural expressions (film, television shows, theatre, poetry, music, and comedy, to name a few). Reading and video materials emphasize intersections with race, ethnicity, class, nationality, and other identity categories. We explore, critique, and question feminist and queer texts through in-class discussion and written responses. Students build their own feminist practice and learn to think about identities’ impact in contexts of power.
 
 ### “Stages of Drama” 
-####Emerson College, Fall 2021
+#### Emerson College, Fall 2021
 
 This course is a survey of theater and drama from a variety of global traditions, with a particular emphasis on exploring how these works are informed by their historical, societal, and cultural contexts. We read selected plays and theoretical texts with an eye to examining dramatic form, theatrical style, and practice. We also view and discuss a number of performances, either recorded or live.
 
