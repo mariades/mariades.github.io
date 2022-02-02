@@ -30,7 +30,7 @@
 
 		> .post {
 			@include padding((_size(padding) * 3), (_size(padding) * 4));
-			text-align: justify;
+		//	text-align: justify;
   		// text-justify: none;
 
 			header {
