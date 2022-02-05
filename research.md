@@ -8,9 +8,10 @@ sitemap:
     changefreq: weekly
 ---
 
-
+<center>
 ### <i>Three Loves for Three Oranges: Gozzi, Meyerhold, Prokofiev</i>
 #### Indiana University Press, 2021. 
+</center>
 
 <div style="text-align: center">
     <img style="margin: 30px 0px 40px 30px;" src="/images/Three_Loves.jpeg" alt="" height="500">
@@ -26,10 +27,10 @@ A resource for scholars and theater lovers alike, this collection of essays, pai
 <br>
 <br>
 
-
+<center>
 ### “Sophie Tucker, Racial Hybridity and Interracial Relations in American Vaudeville” 
 #### Theatre Research International 44 (July 2019): 153–70. 
-
+</center>
 
 <div style="text-align: center">
     <img style="margin: 30px 0px 40px 30px;" src="/images/Tucker.png" alt="" height="500">
@@ -40,8 +41,9 @@ This article discusses Sophie Tucker's racialized performance in the context of 
 <br>
 <br>
 
+<center>
 ### “Embodying Race, Performing Citizenship: Racial Impersonation and Immigrant Identity in American Popular Entertainment, 1870–1920.” 
-
+</center>
 
 <div style="text-align: center">
     <img style="margin: 30px 0px 40px 30px;" src="/images/Lee_Tung_Foo.png" alt="" height="500">
