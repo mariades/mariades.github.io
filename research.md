@@ -10,7 +10,7 @@ sitemap:
 
 
 ### <i>Three Loves for Three Oranges: Gozzi, Meyerhold, Prokofiev</i>
-#### Indiana University Press, 2021. 
+#### [Indiana University Press, 2021.](https://iupress.org/9780253057884/three-loves-for-three-oranges/) 
 
 <div style="text-align: center">
     <img style="margin: 30px 0px 40px 30px;" src="/images/Three_Loves.jpeg" alt="" height="500">
@@ -27,7 +27,7 @@ A resource for scholars and theater lovers alike, this collection of essays, pai
 <br>
 
 ### “Sophie Tucker, Racial Hybridity and Interracial Relations in American Vaudeville” 
-#### Theatre Research International 44 (July 2019): 153–70. 
+#### [Theatre Research International 44 (July 2019): 153–70.](https://www.cambridge.org/core/journals/theatre-research-international/article/abs/sophie-tucker-racial-hybridity-and-interracial-relations-in-american-vaudeville/10F24A7B126CAA3EE4141E577BAEAAE4) 
 
 <div style="text-align: center">
     <img style="margin: 30px 0px 40px 30px;" src="/images/Tucker.png" alt="" height="500">
